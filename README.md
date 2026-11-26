@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
-</div>
+
 
 # 👋 Hi, I'm Naresh Kotapati
 
