@@ -1,4 +1,21 @@
+<div align="center">
+  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+</div>
 
+# 👋 Hi, I'm Naresh Kotapati
+
+ 
+🚀 DevOps • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naresh-kotapati/)
+
+[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:kotapatinaresh100@gmail.com)
+
+---
+
+I'm an aspiring DevOps & Cloud Engineer passionate about building cloud-native applications, automating infrastructure, and implementing CI/CD pipelines. I have hands-on experience with AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions. I'm continuously developing my skills in DevSecOps, Infrastructure as Code (IaC), cloud automation, monitoring, and Site Reliability Engineering (SRE) while building practical projects to solve real-world engineering challenges.
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naresh-kotapati/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kotapatinaresh100@gmail.com) 
 
