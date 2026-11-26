@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Naresh Kotapati
 
  
-🚀 DevOps • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+🚀 DevOps • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naresh-kotapati/)
 
