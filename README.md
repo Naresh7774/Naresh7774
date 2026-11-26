@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naresh-kotapati/)
 
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:kotapatinaresh100@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-kotapatinaresh100@gmail.com.com-red?logo=gmail&style=flat)](mailto:kotapatinaresh100@gmail.com)
 
 ---
 
